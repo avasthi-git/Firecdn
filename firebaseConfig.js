@@ -9,6 +9,7 @@ var firebaseConfig = {
   storageBucket: "ishanfirebase.appspot.com",
   messagingSenderId: "458183939701",
   appId: "1:458183939701:web:9978347b7b3b3127e40a3c"
+  };
 
 /*---------------------------Replace------------------------------*/
 
