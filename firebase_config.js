@@ -3,13 +3,12 @@
 /*---------------------------Replace------------------------------*/
 
 var firebaseConfig = {
-    apiKey: "AIzaSyB9eBs10atrgeGAI-WQm6UO72lhzmT-vpo",
-    authDomain: "thefirecdn.firebaseapp.com",
-    projectId: "thefirecdn",
-    storageBucket: "thefirecdn.appspot.com",
-    messagingSenderId: "707022422419",
-    appId: "1:707022422419:web:b51d29ade5652390246866"
-};
+  apiKey: "AIzaSyAic1PwlaKVfvvdxkKCDRLXoDdqWaW5qII",
+  authDomain: "ishanfirebase.firebaseapp.com",
+  projectId: "ishanfirebase",
+  storageBucket: "ishanfirebase.appspot.com",
+  messagingSenderId: "458183939701",
+  appId: "1:458183939701:web:9978347b7b3b3127e40a3c"
 
 /*---------------------------Replace------------------------------*/
 
